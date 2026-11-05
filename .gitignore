@@ -1,0 +1,4 @@
+# Python-generated files (do not commit these)
+__pycache__/
+*.pyc
+.DS_Store
